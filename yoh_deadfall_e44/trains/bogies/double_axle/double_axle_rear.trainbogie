@@ -1,0 +1,14 @@
+{
+  "MeshUri": "yoh_deadfall_e44/double_axle_rear.obj",
+  "AxleOffset": 0.24,
+  "Axles": [
+    {
+      "Uri": "base/small_driving_wheels_black.trainaxle",
+      "Offset": 0.35
+    },
+    {
+      "Uri": "base/small_driving_wheels_black.trainaxle",
+      "Offset": -0.35
+    }
+  ]
+}

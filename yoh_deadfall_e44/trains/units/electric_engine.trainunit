@@ -1,0 +1,42 @@
+{
+  "Smokes": null,
+  "Bogies": [
+    {
+      "Uri": "yoh_deadfall_e44/double_axle_front.trainbogie",
+      "Offset": 0.7,
+      "Anchor1": true,
+      "Anchor2": false,
+      "Secondary": false
+    },
+    {
+      "Uri": "yoh_deadfall_e44/double_axle_rear.trainbogie",
+      "Offset": -0.7,
+      "Anchor1": false,
+      "Anchor2": true,
+      "Secondary": false
+    }
+  ],
+  "AudioUri": "base/electric.trainaudio",
+  "Type": "Electric",
+  "Length": 3.45,
+  "VelocityLimit": 90.0,
+  "Power": 2200.0,
+  "Weight": 78.0,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "yoh_deadfall_e44/electric_engine.obj"
+    }
+  ],
+  "Coupling1Uri": "base/common.traincoupling",
+  "Coupling2Uri": "base/common.traincoupling",
+  "Hidden": false,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": 0.204,
+  "ResearchUri": "base/electric_engine.research",
+  "Explosive": false,
+  "ExplosionForce": null
+}
