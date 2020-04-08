@@ -1,6 +1,4 @@
-# Blender v2.81 (sub 16) OBJ File: 'untitled.blend'
-# www.blender.org
-o Cylinder
+o steer_wheel
 v -0.050000 0.000000 -0.024000
 v -0.040000 -0.000000 -0.030000
 v -0.050000 -0.012000 -0.020785
