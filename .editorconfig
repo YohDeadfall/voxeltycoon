@@ -4,3 +4,7 @@ root = true
 ; Unix-style newlines
 [*]
 end_of_line = LF
+
+; Json files
+[*.{json,caraxle,meta,strings,trainbogie,trainunit}]
+indent_size = 2
