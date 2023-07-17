@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony" HintPath="../deps/0Harmony.dll" />
+    <Reference Include="Assembly-CSharp" HintPath="../deps/Assembly-CSharp.dll" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="../deps/UnityEngine.CoreModule.dll" />
+  </ItemGroup>
+</Project>
